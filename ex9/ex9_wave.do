@@ -1,7 +1,7 @@
 # compile
 
-vlog ex3.v
-vlog ex3_tb.v
+vlog ex9.v
+vlog ex9_tb.v
 
 # simulate
 vsim -debugdb testbench
