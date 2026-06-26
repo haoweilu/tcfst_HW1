@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sanoisaboy/Desktop/verilog/tcfst/HW1/ex3
+T_opt
+Z1 !s110 1781783016
+VS]W86V14Hg?PahdGERNU;1
+04 9 4 work testbench fast 0
+=1-c87f5403ae8c-6a33d9e8-155-1484
+o-quiet -auto_acc_if_foreign -work work -debugdb
+Z2 tCvgOpt 0
+n@_opt
+OE;O;10.5c;63
+vtestbench
+R1
+!i10b 1
+!s100 ATLJaV=W;MW5Tib9Bf<_12
+IU[_?fBEmV3=;QbH>Vnh=23
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1781783009
+8ex3_tb.v
+Fex3_tb.v
+L0 3
+Z4 OE;L;10.5c;63
+r1
+!s85 0
+31
+Z5 !s108 1781783016.000000
+!s107 ex3_tb.v|
+!s90 -reportprogress|300|ex3_tb.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtop_module
+R1
+!i10b 1
+!s100 oOa6Ba?ozU_ZoY;]<DGa`3
+IeJ@E5ZHGLcgL2iEQM?nCP3
+R3
+R0
+w1781781208
+8ex3.v
+Fex3.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 ex3.v|
+!s90 -reportprogress|300|ex3.v|
+!i113 0
+R6
+R2

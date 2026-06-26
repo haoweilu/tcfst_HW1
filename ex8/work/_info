@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sanoisaboy/Desktop/verilog/tcfst/HW1/ex8
+T_opt
+Z1 !s110 1782480424
+VCJ@C>R3>C@ZSWA4W[=9NJ3
+04 9 4 work testbench fast 0
+=1-c87f5403ae8c-6a3e7e28-34f-2f10
+o-quiet -auto_acc_if_foreign -work work -debugdb
+Z2 tCvgOpt 0
+n@_opt
+OE;O;10.5c;63
+vex8
+R1
+!i10b 1
+!s100 CZHg6m0H7ch@=F]]F4mIC1
+IGc[Z7o0<o[87FEo_0?@C;1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1782480416
+8ex8.v
+Fex8.v
+L0 1
+Z4 OE;L;10.5c;63
+r1
+!s85 0
+31
+Z5 !s108 1782480424.000000
+!s107 ex8.v|
+!s90 -reportprogress|300|ex8.v|
+!i113 0
+Z6 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtestbench
+R1
+!i10b 1
+!s100 JJfelc]oJ<;f:NzGV[42T2
+IDe8^D]K0RAPhEJ]Zf0[2S3
+R3
+R0
+w1782480312
+8ex8_tb.v
+Fex8_tb.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 ex8_tb.v|
+!s90 -reportprogress|300|ex8_tb.v|
+!i113 0
+R6
+R2
